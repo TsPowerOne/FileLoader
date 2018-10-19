@@ -27,7 +27,6 @@ export class FileLoader{
         let that = this;
         let input = document.createElement("input");
         input.setAttribute("type", "file");
-        console.log(this.multiple);
         if(this.multiple)input.setAttribute("multiple", "multiple");
 
         input.addEventListener("click", (event)=>{
