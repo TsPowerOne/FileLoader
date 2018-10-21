@@ -53,6 +53,9 @@ export class FileLoader{
             url:url,
             method:"POST",
             process:false,
+            headers:{
+                "enctype":"multipart/form-data"
+            },
             data:Fdata
         });
     }
