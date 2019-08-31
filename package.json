@@ -5,7 +5,7 @@
   "main": "./lib/fileloader.js",
   "types": "./lib/fileloader.d.ts",
   "repository": {
-    "url": "git+https://github.com/TsPowerOne/Select.git"
+    "url": "git+https://github.com/TsPowerOne/FileLoader.git"
   },
   "directories": {
     "doc": "docs",

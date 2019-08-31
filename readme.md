@@ -1,4 +1,4 @@
-# Select        ![alt text](https://ppbusinessproject.visualstudio.com/TSPowerOne/_apis/build/status/TsPowerOne.FileLoader?branchName=master)
+# FileLoader        ![alt text](https://ppbusinessproject.visualstudio.com/TSPowerOne/_apis/build/status/TsPowerOne.FileLoader?branchName=master)
 
 
 > Add a file upload button on your DOM
@@ -12,7 +12,7 @@ Detailed documentation [here](https://tspowerone.github.io/FileLoader/)
 
 
 ## Install
-`npm i @tspower/fileupload`
+`npm i @tspower/fileloader`
 
 
 ## Author
