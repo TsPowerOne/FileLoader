@@ -9,8 +9,8 @@ export declare class FileLoader {
     private changed;
     private files;
     private http;
-    clicked$: import("rxjs/internal/Observable").Observable<any>;
-    changed$: import("rxjs/internal/Observable").Observable<any>;
+    clicked$: import("rxjs").Observable<any>;
+    changed$: import("rxjs").Observable<any>;
     constructor(Root: HTMLElement, multiple?: boolean, Id?: string, Class?: string, Style?: string);
     create: () => void;
     send: (url: string, inputName: string) => Promise<any>;
