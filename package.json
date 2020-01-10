@@ -1,6 +1,6 @@
 {
   "name": "@tspower/fileloader",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Simply file upload button",
   "main": "./lib/fileloader.js",
   "types": "./lib/fileloader.d.ts",
